@@ -9,7 +9,20 @@ Please ensure compliance with this license when using the source code of the pro
 
 **including the disclosure of the modified source code and the source of the original code**.
 
-## ⚠️ Warning
+## ⚠️ Disclaimer and Warning
 
-Any attempt to directly submit this code as an assignment will be considered plagiarism and a violation of school policies. The author bears no responsibility for such actions.
+### Legal Notice
 
+This code is provided for educational purposes only. Any attempt to submit this code, in part or in whole, as an assignment or project for academic credit will be deemed as academic dishonesty and plagiarism. Such actions are a violation of institutional policies and may result in severe consequences, including but not limited to academic sanctions or disciplinary action.
+
+By using this code, you acknowledge and agree that:
+
+1. **Prohibited Use**: You will not submit this code as your own work for any assignment, project, or other academic evaluation.
+2. **Academic Integrity**: You will use this code only for reference, understanding, and learning purposes, and you will produce your own original work for any assignments or projects.
+3. **Liability**: The author of this code accepts no responsibility or liability for any academic consequences arising from the misuse of this code. You are solely responsible for any actions taken using this code.
+
+Failure to comply with these terms may result in disciplinary action by your educational institution. It is your responsibility to understand and adhere to your institution's academic integrity policies.
+
+### Acceptance of Terms
+
+By accessing or using this code, you acknowledge that you have read, understood, and agreed to this disclaimer and warning.

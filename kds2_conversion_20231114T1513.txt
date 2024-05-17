@@ -1,0 +1,9 @@
+20231114T1513 KDS Upgrade Assistant Conversion Report
+Project name: assignment
+Project location: D:/CODE/Kinetis_WS/assignment
+Conversion status: success.
+Toolchain settings, for configuration Debug: already set. Not changed.
+Newlib-nano, for configuration Debug: no instances of -nanolibc found.
+Semihosting support None, for configuration Debug: semihosting options successfully removed.
+Add _exit(): /Sources/exit.c, was added.
+A backup of the original .cproject file has been created in .cproject_backup
